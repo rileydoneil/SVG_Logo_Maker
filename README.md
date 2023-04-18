@@ -12,6 +12,6 @@ This lesson taught me how to properly store questions and iterate over answers t
 
 
 ## Usage
-This is a video walkthrough: 
+This is a video walkthrough: https://drive.google.com/file/d/1ZYBoDy8SXkzGlSVrgD7boHLGDNQyu3P5/view 
 
 [MIT](https://choosealicense.com/licenses/mit/)
