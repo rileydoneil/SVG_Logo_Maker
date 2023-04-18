@@ -1,17 +1,17 @@
-# Professional_Readme_Generator
-Generates Professional ReadMes through a user's CLI using Node.js
+# SVG Generator
+Generates Professional SVG files through a user's CLI using Node.js
 
 ## Purpose
-This was a challenge to build a readme generator through a user's cli and utilizes the inquirer method.
+This was a challenge to build an SVG generator through a user's cli and utilizes the inquirer method, multiple classes, and inheritance. 
 
 ## Lessons
-This lesson taught me how to properly store questions and iterate over answers to create an appealing readme
+This lesson taught me how to properly store questions and iterate over answers to create an appealing SVG provided by user input.
 
-## View Live Site
+## Resources
+//https://community.smartbear.com/t5/TestComplete-Questions/How-to-import-a-javascript-class-and-extend-it-in-another-script/td-p/182306
 
-https://rileydoneil.github.io/Proffessional_readme_generator
 
 ## Usage
-This is a video walkthrough: https://drive.google.com/file/d/1DUOj7WgShY8K_3pYKKacwMj5Wu0ni75v/view 
+This is a video walkthrough: 
 
 [MIT](https://choosealicense.com/licenses/mit/)
