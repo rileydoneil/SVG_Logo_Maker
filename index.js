@@ -2,8 +2,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require("inquirer");
 const fs = require("fs");
-const { generateKey } = require("crypto");
-const generateSVG = require("../lib/generateSVG");
+const generateSVG = require("./lib/generateSVG");
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -41,7 +40,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
     inquirer
-        .prompt(questions).then((answers) => writeToFile('logo.svg', answers))
+        .prompt(questions).then((answers) => writeToFile('./examples/logo.svg', answers))
 }
 
 // Function call to initialize app
